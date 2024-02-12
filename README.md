@@ -22,7 +22,7 @@ Check out my portfolio to see some of my latest projects and a showcase of my sk
 
 ## 🔧 Projects
 
-Here are some projects I'm proud of:
+Here are some of my recent projects:
 
 1. [Genius](https://ai-saas-pi-orpin.vercel.app/) - An AI SaaS platform built from scratch that leverages OpenAI and Replicate to generate unique media content.
 2. [Threads Clone](https://threads-app-ochre.vercel.app/) - Full-stack threads clone app which has features like search, activity, create, community, profile details etc.
