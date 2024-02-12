@@ -2,15 +2,15 @@
 
 Passionate Frontend Developer | UI/UX Enthusiast | Code Explorer
 
-![Banner Image](link/to/banner-image.png)
+![Banner Image](./github-header-image.png)
 
 Welcome to my GitHub profile! I'm a creative and detail-oriented front-end developer with a knack for crafting seamless and visually appealing user interfaces. My journey in the world of coding has been a fascinating exploration, and I'm always eager to learn and adapt to new technologies.
 
 ## 🚀 Skills
 
 - **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Redux, Next.js Angular, Tailwind, Bootstrap, GraphQL, React Native
-- **Styling:** Sass, Styled Components
+- **Frameworks/Libraries:** React, Redux, Next.js Angular, GraphQL, React Native
+- **Styling:** Sass, Styled Components, Tailwind, Bootstrap
 - **Tools:** Git, Docker, CI/CD
 - **Design:** Figma, Adobe XD
 
@@ -24,9 +24,10 @@ Check out my portfolio to see some of my latest projects and a showcase of my sk
 
 Here are some projects I'm proud of:
 
-1. [Project 1](link-to-project1) - Brief description
-2. [Project 2](link-to-project2) - Brief description
-3. [Project 3](link-to-project3) - Brief description
+1. [Genius](https://ai-saas-pi-orpin.vercel.app/) - An AI SaaS platform built from scratch that leverages OpenAI and Replicate to generate unique media content.
+2. [Threads Clone](https://threads-app-ochre.vercel.app/) - Full-stack threads clone app which has features like search, activity, create, community, profile details etc.
+3. [Metaversus](https://metaverse-landing-vert.vercel.app/) - Metaverse landing app with fully responsive design, modern UI elements and fluid animations.
+4. [HooBank](https://bank-landing-app.vercel.app/) - A modern banking landing website designed and developed from figma design which is not only lightweight but pixel perfect and works seamlessly across all the devices.
 
 ## 🤝 Let's Connect
 
