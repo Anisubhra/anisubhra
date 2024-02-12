@@ -1,10 +1,12 @@
-# Hi there! 👋 I'm Anisubhra
+# Hi there! 👋 I'm Anisubhra [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anisubhrasarkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anisubhrasarkar)
 
 Passionate Frontend Developer | UI/UX Enthusiast | Code Explorer
 
 ![Banner Image](./github-header-image.png)
 
-Welcome to my GitHub profile! I'm a creative and detail-oriented front-end developer with a knack for crafting seamless and visually appealing user interfaces. My journey in the world of coding has been a fascinating exploration, and I'm always eager to learn and adapt to new technologies.
+Welcome to my GitHub profile! I'm a creative and detail-oriented front-end developer with a knack for crafting seamless and visually appealing user interfaces. My journey in the world of coding has been a fascinating exploration, and I'm always eager to learn and adapt to new technologies. 
+
+[![](https://visitcount.itsvg.in/api?id=anisubhra&icon=8&color=6)](https://visitcount.itsvg.in)
 
 ## 🚀 Skills
 
