@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a creative and detail-oriented front-end devel
 
 ## 🚀 Skills 
 
-- **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Redux, Next.js Angular, GraphQL, React Native
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries:** React, Redux, Next.js, Angular, GraphQL, React Native
 - **Styling:** SASS/SCSS, Tailwind, Material UI, Framer Motion
 - **Tools:** Git, Docker, CI/CD, Kubernetes, AWS
 - **Design:** Figma, Adobe XD
