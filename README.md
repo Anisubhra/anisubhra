@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a creative and detail-oriented front-end devel
 
 - **Languages:** HTML, CSS, JavaScript (ES6+)
 - **Frameworks/Libraries:** React, Redux, Next.js Angular, GraphQL, React Native
-- **Styling:** Sass, Styled Components, Tailwind, Bootstrap
-- **Tools:** Git, Docker, CI/CD
+- **Styling:** SASS/SCSS, Tailwind, Material UI, Framer Motion
+- **Tools:** Git, Docker, CI/CD, Kubernetes, AWS
 - **Design:** Figma, Adobe XD
 
 ## 💼 Portfolio
