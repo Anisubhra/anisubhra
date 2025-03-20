@@ -12,7 +12,9 @@ My journey in web development has been an exciting exploration of modern framewo
 
 ### 💼 Portfolio
 
-Take a look at my portfolio to see some of my favorite projects: [Portfolio Website](https://portfolio-website-umber-pi.vercel.app/)
+Take a look at my portfolio to see some of my favorite projects:
+
+💻 Checkout my work → [Portfolio Website](https://portfolio-website-umber-pi.vercel.app/)
 
 ### 🤝 Let's Connect
 
@@ -22,7 +24,7 @@ I'm always open to new collaborations, exciting projects, and networking with fe
 
 ### 📫 Contact Me
 
-📩 Email me at [anisubhrasarkar@gmail.com](mailto:anisubhrasarkar@gmail.com)
+📩 Email me at → [anisubhrasarkar@gmail.com](mailto:anisubhrasarkar@gmail.com)
 
 ### 🎉 Fun Facts
 
