@@ -14,13 +14,14 @@ I **explore modern frameworks, design principles, and performance optimization**
 
 Take a look at my portfolio to see some of my favorite projects:
 
-💻 Checkout my work → [Portfolio Website](https://portfolio-website-umber-pi.vercel.app/)
+💻 Checkout my work → <a href="https://portfolio-website-umber-pi.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
 
 ### 🤝 Let's Connect
 
 I'm always open to new collaborations, exciting projects, and networking with fellow devs. Reach out to me through:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisubhrasarkar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/anisubhrasarkar)
+<a href="https://www.linkedin.com/in/anisubhrasarkar/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
+<a href="https://twitter.com/anisubhrasarkar" target="_blank" rel="noopener noreferrer">Twitter</a>
 
 ### 📫 Contact Me
 
